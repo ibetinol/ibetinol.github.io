@@ -14,7 +14,7 @@ the intersection of data-driven strategies and selective synthesis, with most of
 
 See a Q&A with UBC [here](https://www.grad.ubc.ca/campus-community/meet-our-students/betinol-isaiah)
 
-From 2019-2021 I was an undergraduate at the University of Alberta, where I majored in chemistry and studied protometabolic systems with Sheref Mansy. Along the way, I had brief forays into the synthesis of organic solar cells and solid-state chemistry with Jeff Van Humbeck and Arthur Mar. 
+From 2016-2021 I was an undergraduate at the University of Alberta, where I majored in chemistry and studied protometabolic systems with Sheref Mansy. Along the way, I had brief forays into the synthesis of organic solar cells and solid-state chemistry with Jeff Van Humbeck and Arthur Mar. 
 
 Beyond science, I enjoy deploying data-driven strategies to analyze sports like hockey and golf. 
 Check out my blog posts here.
