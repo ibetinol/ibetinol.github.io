@@ -23,7 +23,7 @@ Check out my blog posts here.
 <ol reversed>
 
 <li> <u>Betinol, I.O.</u>, Demchenko, A., Reid, J.P. Evaluating Predictive Accuracy in Asymmetric Catalysis: A
-Machine Learning Perspective on Local Reaction Space. Submitted.</li>
+Machine Learning Perspective on Local Reaction Space. <i>ACS Catal.</i> <b>2025</b> DOI: 10.1021/acscatal.5c01051</li>
 <br>
 
 <li> <u>Betinol, I.O.</u>, Kuang, Y., Mulley, B.P., Reid, J.P. Controlling Stereoselectivity with Non-covalent Interactions in Chiral Phosphoric Acid Catalysis, <i>Chem. Rev.</i> <b>2025</b>. DOI: 10.1021/acs.chemrev.4c00869</li>
