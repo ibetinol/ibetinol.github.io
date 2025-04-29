@@ -17,20 +17,20 @@ See a Q&A with UBC [here](https://www.grad.ubc.ca/campus-community/meet-our-stud
 From 2016-2021 I was an undergraduate at the University of Alberta, where I majored in chemistry and studied protometabolic systems with Sheref Mansy. Along the way, I had brief forays into the synthesis of organic solar cells and solid-state chemistry with Jeff Van Humbeck and Arthur Mar. 
 
 Beyond science, I enjoy deploying data-driven strategies to analyze sports like hockey and golf. 
-Check out my blog posts here.
+Check out my blog posts [here](https://ibetinol.github.io./blog/).
 
 # Publications
 <ol reversed>
 
-<li> <u>Betinol, I.O.</u>, Demchenko, A., Reid, J.P. Evaluating Predictive Accuracy in Asymmetric Catalysis: A
-Machine Learning Perspective on Local Reaction Space. <i>ACS Catal.</i> <b>2025</b> DOI: 10.1021/acscatal.5c01051</li>
-<br>
-
-<li> <u>Betinol, I.O.</u>, Kuang, Y., Mulley, B.P., Reid, J.P. Controlling Stereoselectivity with Non-covalent Interactions in Chiral Phosphoric Acid Catalysis, <i>Chem. Rev.</i> <b>2025</b>. DOI: 10.1021/acs.chemrev.4c00869</li>
-<br>
-
 <li> <u>Betinol, I.O.</u>, Kuang, Y., Lai, J., Yousofi, C., Reid, J.P. Machine Learning Enables A Top-Down
-Approach to Mechanistic Elucidation, <i>ChemRxiv</i> <b>2024</b>, DOI: 10.26434/chemrxiv-2024-q17mn</li>
+Approach to Mechanistic Elucidation, <i>ACS Catal.</i> <b>2025</b>, Accepted. 
+<br>
+
+<li> <u>Betinol, I.O.</u>, Demchenko, A., Reid, J.P. Evaluating Predictive Accuracy in Asymmetric Catalysis: A
+Machine Learning Perspective on Local Reaction Space. <i>ACS Catal.</i> <b>2025</b>, 15, 8, 6067-6077. DOI: 10.1021/acscatal.5c01051</li>
+<br>
+
+<li> <u>Betinol, I.O.</u>, Kuang, Y., Mulley, B.P., Reid, J.P. Controlling Stereoselectivity with Non-covalent Interactions in Chiral Phosphoric Acid Catalysis, <i>Chem. Rev.</i> <b>2025</b>, 125, 8, 4184–4286. DOI: 10.1021/acs.chemrev.4c00869</li>
 <br>
 
 <li> Plommer, H., <u>Betinol, I.O.</u>, Dupree, T., Roggen, M., Reid. J.P. Predicting Extraction Conditions for
