@@ -23,7 +23,7 @@ Check out my blog posts [here](https://ibetinol.github.io./blog/).
 <ol reversed>
 
 <li> <u>Betinol, I.O.</u>, Kuang, Y., Lai, J., Yousofi, C., Reid, J.P. Machine Learning Enables A Top-Down
-Approach to Mechanistic Elucidation, <i>ACS Catal.</i> <b>2025</b>, Accepted. 
+Approach to Mechanistic Elucidation, <i>ACS Catal.</i> <b>2025</b>, Accepted.</li> 
 <br>
 
 <li> <u>Betinol, I.O.</u>, Demchenko, A., Reid, J.P. Evaluating Predictive Accuracy in Asymmetric Catalysis: A
